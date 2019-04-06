@@ -1,0 +1,1 @@
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep.UWP\App_BuscaCep.UWP.csproj;x86

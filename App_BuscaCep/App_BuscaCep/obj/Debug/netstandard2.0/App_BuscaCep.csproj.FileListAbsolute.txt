@@ -1,0 +1,12 @@
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\bin\Debug\netstandard2.0\App_BuscaCep.deps.json
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\bin\Debug\netstandard2.0\App_BuscaCep.dll
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App_BuscaCep.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App_BuscaCep.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App_BuscaCep.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App_BuscaCep.AssemblyInfo.cs
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\bin\Debug\netstandard2.0\App_BuscaCep.pdb
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App_BuscaCep.dll
+C:\Users\Erick\source\repos\App_BuscaCep\App_BuscaCep\App_BuscaCep\obj\Debug\netstandard2.0\App_BuscaCep.pdb
